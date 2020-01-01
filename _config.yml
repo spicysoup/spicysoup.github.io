@@ -39,7 +39,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-remote_theme: chesterhow/tale
+remote_theme: spicysoup/tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
