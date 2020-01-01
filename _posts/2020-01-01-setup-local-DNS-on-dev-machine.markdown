@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to set up your own DNS server for local development"
-date:   2020-01-01 16:00:00 +1100
+date:   2020-01-01 20:00:00 +1100
 categories: devops
 ---
 This post talks about setting up a _local_ DNS "server" on your machine.
